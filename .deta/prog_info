@@ -1,0 +1,1 @@
+{"id":"4d34ea8a-a1f4-489a-996d-0a2d8175106f","space":24704,"runtime":"python3.9","name":"LostAPI","path":"ey2c8c","project":"c0e2u4rf","account":"144798365827","region":"ap-southeast-1","deps":["fastapi==0.79.0","nextcord==2.0.0"],"envs":null,"public":true,"log_level":"off","cron":""}
